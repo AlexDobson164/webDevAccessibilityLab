@@ -67,3 +67,6 @@ footer {
 #logo a {
   color: #fff;
 }
+#logo a:visited  {
+  color: #fff;  
+}
